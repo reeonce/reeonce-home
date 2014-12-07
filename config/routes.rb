@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'home/index'
+
   get '/ttd' => 'ttd#index'
   post '/ttd' => 'ttd#comment_new'
   get '/ttd/tos/' => 'ttd#tos'

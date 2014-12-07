@@ -21,7 +21,7 @@ But is it even possible? Just download and try this game!!
 #### Screenshots
 
 <div class="screenshots">
-    <img src="/assets/ss1.png" />
-    <img src="/assets/ss2.png" />
+    <img src="/assets/ss1-31d94573d214b3335492bb0b99a3ec62.png" />
+    <img src="/assets/ss2-fa923b3b9d4c453ffbb8994a27e145d9.png" />
 </div>
 
